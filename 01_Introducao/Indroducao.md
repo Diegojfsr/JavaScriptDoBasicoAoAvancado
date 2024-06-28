@@ -1,4 +1,10 @@
 
+> ☑️ [Apresentação do curso]() 
+
+> ☑️ [Introdução]() 
+
+> ☑️ [O que é JavaScript?]()
+
 > ☑️ [Onde o JavaScript é utilizado?]() 
 
 > ☑️ [Fazendo download do VSCode (editor de texto utilizado no curso)]()
