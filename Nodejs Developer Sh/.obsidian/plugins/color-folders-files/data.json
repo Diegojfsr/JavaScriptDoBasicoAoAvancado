@@ -29,6 +29,114 @@
       "applyToSubfolders": true,
       "applyToFiles": true,
       "isBold": true
+    },
+    "1.Node.js Introduction": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#2bf773"
+    },
+    "2.Node.js Modules": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#49fdc1"
+    },
+    "3.npm": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#53fde9"
+    },
+    "4.Error Handling": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#29a8c2"
+    },
+    "5.Async Programming": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7ff80"
+    },
+    "6.Working with Files": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#99ffcf"
+    },
+    "7.Command Line Applications": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#8eb8fb"
+    },
+    "8.Building & Consuming APIs": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#d184f5"
+    },
+    "9.Monitor Changes Dev": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f4b4f8"
+    },
+    "10.Template Engines": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f556d3"
+    },
+    "11.Working With Databases": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f46c7a"
+    },
+    "12.Testing": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f41f1f"
+    },
+    "13.Logging": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffb3b3"
+    },
+    "14.Keep  app running": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f9e82f"
+    },
+    "15.Threads": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#beff8a"
+    },
+    "16.Streams": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#affdcb"
+    },
+    "17.Debugging": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#58a8fd"
+    },
+    "18.Common Built in Modules": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ff8080"
     }
   },
   "presets": {},
