@@ -11,10 +11,14 @@
             "id": "fd09d83a46c0029a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. React Basics/11.React Redux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "11.React Redux"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1. React Basics/11.React Redux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 11.React Redux"
             }
           },
           {
@@ -163,6 +168,16 @@
   },
   "active": "fd09d83a46c0029a",
   "lastOpenFiles": [
+    "1. React Basics/10.Context API.md",
+    "1. React Basics/9.React Lists.md",
+    "1. React Basics/8.Prop Drilling.md",
+    "1. React Basics/7.PropTypes.md",
+    "1. React Basics/6.Virtual DOM.md",
+    "1. React Basics/5.Conditional Rendering.md",
+    "1. React Basics/4.Components.md",
+    "1. React Basics/3.JSX Introduction.md",
+    "1. React Basics/2.Import and Export.md",
+    "1. React Basics/1.Introduction.md",
     "10. React Complete References/6.Advanced Guide Reference.md",
     "10. React Complete References/5.Hooks Reference.md",
     "10. React Complete References/4.Events Reference.md",
@@ -179,16 +194,6 @@
     "9. React Online Practice Exercise/12.React Router.md",
     "9. React Online Practice Exercise/11.Context API.md",
     "9. React Online Practice Exercise/10.React Hooks.md",
-    "9. React Online Practice Exercise/9.React Forms.md",
-    "9. React Online Practice Exercise/8.Lists and Keys.md",
-    "9. React Online Practice Exercise/7.Conditional Rendering.md",
-    "9. React Online Practice Exercise/6.Event Handling.md",
-    "9. React Online Practice Exercise/5.State in React.md",
-    "9. React Online Practice Exercise/4.Class Components and Lifecycle Methods.md",
-    "9. React Online Practice Exercise/3.Functional Components.md",
-    "9. React Online Practice Exercise/2.Working of React.md",
-    "9. React Online Practice Exercise/1.Introduction to React.md",
-    "8. React Online Quizs/Set-6.md",
     "10. React Complete References",
     "9. React Online Practice Exercise",
     "8. React Online Quizs",
