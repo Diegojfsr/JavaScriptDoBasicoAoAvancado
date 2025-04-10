@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. React Basics/11.React Redux.md",
+                "file": "2. React Hooks/1.Hooks Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.React Redux"
+              "title": "1.Hooks Introduction"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. React Basics/11.React Redux.md",
+                "file": "2. React Hooks/1.Hooks Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 11.React Redux"
+              "title": "Sumário de 1.Hooks Introduction"
             }
           },
           {
@@ -166,8 +166,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fd09d83a46c0029a",
+  "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
+    "2. React Hooks/6.useContext Hook.md",
+    "2. React Hooks/4.useRef Hook.md",
+    "2. React Hooks/5.useMemo Hook.md",
+    "2. React Hooks/3.useEffect Hook.md",
+    "2. React Hooks/2.useState Hook.md",
+    "2. React Hooks/1.Hooks Introduction.md",
+    "1. React Basics/11.React Redux.md",
     "1. React Basics/10.Context API.md",
     "1. React Basics/9.React Lists.md",
     "1. React Basics/8.Prop Drilling.md",
@@ -187,13 +194,6 @@
     "9. React Online Practice Exercise/19.Testing in React.md",
     "9. React Online Practice Exercise/18.Animations and Transitions in React.md",
     "9. React Online Practice Exercise/17.Error Boundaries and Debugging.md",
-    "9. React Online Practice Exercise/16.React with TypeScript.md",
-    "9. React Online Practice Exercise/15.Advanced Hooks and Patterns.md",
-    "9. React Online Practice Exercise/14.Custom Hooks.md",
-    "9. React Online Practice Exercise/13.State Management with Redux.md",
-    "9. React Online Practice Exercise/12.React Router.md",
-    "9. React Online Practice Exercise/11.Context API.md",
-    "9. React Online Practice Exercise/10.React Hooks.md",
     "10. React Complete References",
     "9. React Online Practice Exercise",
     "8. React Online Quizs",
