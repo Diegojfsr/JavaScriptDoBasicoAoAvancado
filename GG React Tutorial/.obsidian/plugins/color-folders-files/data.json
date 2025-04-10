@@ -137,6 +137,66 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#ff8080"
+    },
+    "1. React Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#7b61ff"
+    },
+    "2. React Hooks": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#44a4fd"
+    },
+    "3. React DOM Events": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#1ce2fd"
+    },
+    "4. Lifecycle of Components": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#13ddc5"
+    },
+    "5. Routing in React": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#62f9b8"
+    },
+    "6. Important React Packages": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#89ff57"
+    },
+    "7. React Interview Questions": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#bafd96"
+    },
+    "8. React Online Quizs": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f77e"
+    },
+    "9. React Online Practice Exercise": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#eee03f"
+    },
+    "10. React Complete References": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffbb29"
     }
   },
   "presets": {},
