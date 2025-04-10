@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Routing in React/1.React JS Router.md",
+                "file": "6. Important React Packages/1.Redux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.React JS Router"
+              "title": "1.Redux"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Routing in React/1.React JS Router.md",
+                "file": "6. Important React Packages/1.Redux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.React JS Router"
+              "title": "Sumário de 1.Redux"
             }
           },
           {
@@ -168,12 +168,17 @@
   },
   "active": "ce52997af75d4f3e",
   "lastOpenFiles": [
+    "6. Important React Packages/5.Framer Motion.md",
+    "6. Important React Packages/4.Tailwind.md",
+    "6. Important React Packages/3.react-bootstrap.md",
+    "6. Important React Packages/2.Material UI.md",
+    "6. Important React Packages/1.Redux.md",
+    "5. Routing in React/1.React JS Router.md",
     "5. Routing in React/6.Link and NavLink components in React-Router-Dom.md",
     "5. Routing in React/5.Learn Navigation and Routing in React Apps.md",
     "5. Routing in React/4.React-Router Hooks.md",
     "5. Routing in React/3.React JS Types of Routers.md",
     "5. Routing in React/2.What is react-router-dom.md",
-    "5. Routing in React/1.React JS Router.md",
     "4. Lifecycle of Components/1.Introduction to lifecycle of components.md",
     "4. Lifecycle of Components/6.shouldComponentUpdate.md",
     "4. Lifecycle of Components/5.componentDidUpdate.md",
@@ -189,11 +194,6 @@
     "3. React DOM Events/1.React Events Introduction.md",
     "2. React Hooks/1.Hooks Introduction.md",
     "2. React Hooks/6.useContext Hook.md",
-    "2. React Hooks/4.useRef Hook.md",
-    "2. React Hooks/5.useMemo Hook.md",
-    "2. React Hooks/3.useEffect Hook.md",
-    "2. React Hooks/2.useState Hook.md",
-    "1. React Basics/11.React Redux.md",
     "10. React Complete References",
     "9. React Online Practice Exercise",
     "8. React Online Quizs",
