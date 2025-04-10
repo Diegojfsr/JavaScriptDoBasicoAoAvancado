@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cecc042df976e7c7",
+        "id": "7a85770dec1b9964",
         "type": "tabs",
         "children": [
           {
-            "id": "fd09d83a46c0029a",
+            "id": "ce52997af75d4f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. React DOM Events/7.onBlur Event.md",
+                "file": "4. Lifecycle of Components/1.Introduction to lifecycle of components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.onBlur Event"
+              "title": "1.Introduction to lifecycle of components"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. React DOM Events/7.onBlur Event.md",
+                "file": "4. Lifecycle of Components/1.Introduction to lifecycle of components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 7.onBlur Event"
+              "title": "Sumário de 1.Introduction to lifecycle of components"
             }
           },
           {
@@ -166,8 +166,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fd09d83a46c0029a",
+  "active": "ce52997af75d4f3e",
   "lastOpenFiles": [
+    "5. Routing in React/1.React JS Router.md",
+    "4. Lifecycle of Components/6.shouldComponentUpdate.md",
+    "4. Lifecycle of Components/5.componentDidUpdate.md",
+    "4. Lifecycle of Components/4.componentDidCatch.md",
+    "4. Lifecycle of Components/3.componentWillUnmount.md",
+    "4. Lifecycle of Components/2.componentDidMount.md",
+    "4. Lifecycle of Components/1.Introduction to lifecycle of components.md",
+    "3. React DOM Events/7.onBlur Event.md",
     "3. React DOM Events/6.onScroll Event.md",
     "3. React DOM Events/5.onSubmit Event.md",
     "3. React DOM Events/4.onDoubleClick Event.md",
@@ -186,14 +194,6 @@
     "1. React Basics/8.Prop Drilling.md",
     "1. React Basics/7.PropTypes.md",
     "1. React Basics/6.Virtual DOM.md",
-    "1. React Basics/5.Conditional Rendering.md",
-    "1. React Basics/4.Components.md",
-    "1. React Basics/3.JSX Introduction.md",
-    "1. React Basics/2.Import and Export.md",
-    "1. React Basics/1.Introduction.md",
-    "10. React Complete References/6.Advanced Guide Reference.md",
-    "10. React Complete References/5.Hooks Reference.md",
-    "10. React Complete References/4.Events Reference.md",
     "10. React Complete References",
     "9. React Online Practice Exercise",
     "8. React Online Quizs",
