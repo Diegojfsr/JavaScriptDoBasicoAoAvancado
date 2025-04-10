@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. React Hooks/1.Hooks Introduction.md",
+                "file": "3. React DOM Events/7.onBlur Event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Hooks Introduction"
+              "title": "7.onBlur Event"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. React Hooks/1.Hooks Introduction.md",
+                "file": "3. React DOM Events/7.onBlur Event.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Hooks Introduction"
+              "title": "Sumário de 7.onBlur Event"
             }
           },
           {
@@ -166,14 +166,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "fd09d83a46c0029a",
   "lastOpenFiles": [
+    "3. React DOM Events/6.onScroll Event.md",
+    "3. React DOM Events/5.onSubmit Event.md",
+    "3. React DOM Events/4.onDoubleClick Event.md",
+    "3. React DOM Events/3.onMouseDown Event.md",
+    "3. React DOM Events/2.onclickcapture Event.md",
+    "3. React DOM Events/1.React Events Introduction.md",
+    "2. React Hooks/1.Hooks Introduction.md",
     "2. React Hooks/6.useContext Hook.md",
     "2. React Hooks/4.useRef Hook.md",
     "2. React Hooks/5.useMemo Hook.md",
     "2. React Hooks/3.useEffect Hook.md",
     "2. React Hooks/2.useState Hook.md",
-    "2. React Hooks/1.Hooks Introduction.md",
     "1. React Basics/11.React Redux.md",
     "1. React Basics/10.Context API.md",
     "1. React Basics/9.React Lists.md",
@@ -188,12 +194,6 @@
     "10. React Complete References/6.Advanced Guide Reference.md",
     "10. React Complete References/5.Hooks Reference.md",
     "10. React Complete References/4.Events Reference.md",
-    "10. React Complete References/3.Props Reference.md",
-    "10. React Complete References/2.Components Complete Reference.md",
-    "10. React Complete References/1.Basic Concepts Reference.md",
-    "9. React Online Practice Exercise/19.Testing in React.md",
-    "9. React Online Practice Exercise/18.Animations and Transitions in React.md",
-    "9. React Online Practice Exercise/17.Error Boundaries and Debugging.md",
     "10. React Complete References",
     "9. React Online Practice Exercise",
     "8. React Online Quizs",
