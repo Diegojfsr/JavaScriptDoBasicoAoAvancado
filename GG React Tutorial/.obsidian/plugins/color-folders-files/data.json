@@ -173,30 +173,6 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#89ff57"
-    },
-    "7. React Interview Questions": {
-      "applyToFiles": true,
-      "applyToSubfolders": true,
-      "isBold": true,
-      "textColor": "#bafd96"
-    },
-    "8. React Online Quizs": {
-      "applyToFiles": true,
-      "applyToSubfolders": true,
-      "isBold": true,
-      "textColor": "#f5f77e"
-    },
-    "9. React Online Practice Exercise": {
-      "applyToFiles": true,
-      "applyToSubfolders": true,
-      "isBold": true,
-      "textColor": "#eee03f"
-    },
-    "10. React Complete References": {
-      "applyToFiles": true,
-      "applyToSubfolders": true,
-      "isBold": true,
-      "textColor": "#ffbb29"
     }
   },
   "presets": {},
