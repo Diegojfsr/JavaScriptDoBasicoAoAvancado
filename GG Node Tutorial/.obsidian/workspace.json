@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.Careers with Node.js/1.Accenture.md",
+                "file": "1.Basics of Node.js/1.Node.js Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Accenture"
+              "title": "1.Node.js Introduction"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.Careers with Node.js/1.Accenture.md",
+                "file": "1.Basics of Node.js/1.Node.js Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Accenture"
+              "title": "Sumário de 1.Node.js Introduction"
             }
           },
           {
@@ -168,36 +168,36 @@
   },
   "active": "06e924a95384419a",
   "lastOpenFiles": [
-    "6.Careers with Node.js/13.Cisco Systems Inc.md",
-    "6.Careers with Node.js/12.Deloitte India.md",
-    "6.Careers with Node.js/11.Intel India.md",
-    "6.Careers with Node.js/10.Oracle Inc.md",
-    "6.Careers with Node.js/9.Adobe Inc.md",
-    "6.Careers with Node.js/8.Amazon India.md",
-    "6.Careers with Node.js/7.Microsoft India.md",
-    "6.Careers with Node.js/6.IBM India.md",
-    "6.Careers with Node.js/5.Capgemini.md",
-    "6.Careers with Node.js/4.HCL Technologies.md",
-    "6.Careers with Node.js/3.Cognizant.md",
-    "6.Careers with Node.js/2.Google.md",
-    "6.Careers with Node.js/1.Accenture.md",
-    "5.Node.js Projects/1.Library Management System.md",
+    "1.Basics of Node.js/26.Node.js Session Variable.md",
+    "1.Basics of Node.js/25.Node.js Global Installation of Dependencies.md",
+    "1.Basics of Node.js/24.Node.js Child Process.md",
+    "1.Basics of Node.js/23.Node.js Automatic Restart Server with Nodemon.md",
+    "1.Basics of Node.js/22.Node.js Global Objects.md",
+    "1.Basics of Node.js/21.Node.js This Binding.md",
+    "1.Basics of Node.js/20.Node.js Promise Chaining.md",
+    "1.Basics of Node.js/19.Node.js Frameworks.md",
+    "1.Basics of Node.js/18.Node.js Event Loop.md",
+    "1.Basics of Node.js/17.Node.js –save and –save-dev.md",
+    "1.Basics of Node.js/16.Node.js Create and Publish NPM packages.md",
+    "1.Basics of Node.js/15.Node.js Web Server.md",
+    "1.Basics of Node.js/14.Node.js Set Console Font Color.md",
+    "1.Basics of Node.js/13.Node.js Debugging.md",
+    "1.Basics of Node.js/12.Node.js Callback Concept.md",
+    "1.Basics of Node.js/11.Node.js Blocking and Non-Blocking.md",
+    "1.Basics of Node.js/10.Node.js Start and Run Server.md",
+    "1.Basics of Node.js/9.Node.js modules.md",
+    "1.Basics of Node.js/8.Node.js REPL.md",
+    "1.Basics of Node.js/7.Node.js First Application.md",
+    "1.Basics of Node.js/6.Node.js Basics.md",
+    "1.Basics of Node.js/5.Installation of Node.js on Windows.md",
+    "1.Basics of Node.js/4.Installation of Node.js on Linux.md",
+    "1.Basics of Node.js/3.Node.js NPM (Node.jsPackage Manager).md",
+    "1.Basics of Node.js/2.Why Node.js.md",
+    "1.Basics of Node.js/1.Node.js Introduction.md",
     "6.Careers with Node.js",
-    "5.Node.js Projects/2.User Management System.md",
-    "5.Node.js Projects/3.Stock Market Portfolio App.md",
-    "5.Node.js Projects/4.Chat App using socket.io Node.js.md",
-    "5.Node.js Projects/5.Mail sender using Node.js.md",
-    "5.Node.js Projects/6.Task Manager using Node.js.md",
-    "4.Node.js Online Quiz Questions/3.1.Node.js Quiz - Set-3.md",
     "5.Node.js Projects",
-    "4.Node.js Online Quiz Questions/2.1.Node.js Quiz - Set-2.md",
-    "4.Node.js Online Quiz Questions/1.Node.js Quiz - Set-1.md",
     "4.Node.js Online Quiz Questions",
-    "3.Node.js Interview Questions/3.Node.js Interview Questions and Answers (2024) – Advanced Level.md",
-    "3.Node.js Interview Questions/2.Node.js Interview Questions and Answers (2024) – Intermediate Level.md",
-    "3.Node.js Interview Questions/1.Node.js Interview Questions and Answers (2024) – Beginner Level.md",
     "3.Node.js Interview Questions",
-    "2.Node.js Complete References/24.Node.js Questions.md",
     "2.Node.js Complete References",
     "1.Basics of Node.js",
     "8.Next.js Projects",
