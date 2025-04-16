@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b28b4b18f13c65cf",
+        "id": "abf2678db0ecdb24",
         "type": "tabs",
         "children": [
           {
-            "id": "06e924a95384419a",
+            "id": "fb2091b90f4a0c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.Careers with Node.js/1.Accenture.md",
+                "file": "1.TypeScript Hello World Program/1.Install TypeScript in your System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Accenture"
+              "title": "1.Install TypeScript in your System"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.Careers with Node.js/1.Accenture.md",
+                "file": "1.TypeScript Hello World Program/1.Install TypeScript in your System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Accenture"
+              "title": "Sumário de 1.Install TypeScript in your System"
             }
           },
           {
@@ -166,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "06e924a95384419a",
+  "active": "fb2091b90f4a0c8e",
   "lastOpenFiles": [
-    "6.Careers with Node.js/13.Cisco Systems Inc.md",
-    "6.Careers with Node.js/12.Deloitte India.md",
-    "6.Careers with Node.js/11.Intel India.md",
-    "6.Careers with Node.js/10.Oracle Inc.md",
-    "6.Careers with Node.js/9.Adobe Inc.md",
-    "6.Careers with Node.js/8.Amazon India.md",
-    "6.Careers with Node.js/7.Microsoft India.md",
-    "6.Careers with Node.js/6.IBM India.md",
-    "6.Careers with Node.js/5.Capgemini.md",
-    "6.Careers with Node.js/4.HCL Technologies.md",
-    "6.Careers with Node.js/3.Cognizant.md",
-    "6.Careers with Node.js/2.Google.md",
-    "6.Careers with Node.js/1.Accenture.md",
-    "5.Node.js Projects/1.Library Management System.md",
-    "6.Careers with Node.js",
-    "5.Node.js Projects/2.User Management System.md",
-    "5.Node.js Projects/3.Stock Market Portfolio App.md",
-    "5.Node.js Projects/4.Chat App using socket.io Node.js.md",
-    "5.Node.js Projects/5.Mail sender using Node.js.md",
-    "5.Node.js Projects/6.Task Manager using Node.js.md",
-    "4.Node.js Online Quiz Questions/3.1.Node.js Quiz - Set-3.md",
-    "5.Node.js Projects",
-    "4.Node.js Online Quiz Questions/2.1.Node.js Quiz - Set-2.md",
-    "4.Node.js Online Quiz Questions/1.Node.js Quiz - Set-1.md",
-    "4.Node.js Online Quiz Questions",
-    "3.Node.js Interview Questions/3.Node.js Interview Questions and Answers (2024) – Advanced Level.md",
-    "3.Node.js Interview Questions/2.Node.js Interview Questions and Answers (2024) – Intermediate Level.md",
-    "3.Node.js Interview Questions/1.Node.js Interview Questions and Answers (2024) – Beginner Level.md",
-    "3.Node.js Interview Questions",
-    "2.Node.js Complete References/24.Node.js Questions.md",
-    "2.Node.js Complete References",
-    "1.Basics of Node.js",
-    "8.Next.js Projects",
-    "7.Next.js Interview Prepration",
-    "6.Advanced Topis",
-    "5.Practicle Code Examples"
+    "14.TypeScript Advanced Projects/3.Contact Management System In Typescript.md",
+    "14.TypeScript Advanced Projects/2.Task Management In Typescript.md",
+    "14.TypeScript Advanced Projects/1.Quiz App In Typescript.md",
+    "13.Interesting Facts About TypeScript/6.Interesting Facts About Modules and Namespaces in TypeScript.md",
+    "14.TypeScript Advanced Projects",
+    "13.Interesting Facts About TypeScript/5.Interesting Facts About Generics in TypeScript.md",
+    "13.Interesting Facts About TypeScript/4.Interesting Facts About Classes and Object-Oriented Programming in TypeScript.md",
+    "13.Interesting Facts About TypeScript/3.Interesting Facts About Object Types and Interfaces in TypeScript.md",
+    "13.Interesting Facts About TypeScript/2.Interesting Facts About Functions in TypeScript.md",
+    "13.Interesting Facts About TypeScript/1.Interesting Facts About TypeScript Basics.md",
+    "12.TypeScript Configuration and Performance/3.Practice TypeScript Configuration & Performance Quiz.md",
+    "13.Interesting Facts About TypeScript",
+    "12.TypeScript Configuration and Performance/2.Performance tuning for TypeScript compilation.md",
+    "12.TypeScript Configuration and Performance/1.Optimizing tsconfig.json for large projects.md",
+    "11.TypeScript Testing/4.Practice Testing in TypeScript Quiz.md",
+    "12.TypeScript Configuration and Performance",
+    "11.TypeScript Testing/3.Type-safe Mocking in TypeScript.md",
+    "11.TypeScript Testing/2.Testing Frameworks in TypeScript.md",
+    "11.TypeScript Testing/1.Writing Unit Tests with TypeScript.md",
+    "10.TypeScript Modules and Namespaces/4.Practice Testing in TypeScript Quiz.md",
+    "11.TypeScript Testing",
+    "10.TypeScript Modules and Namespaces/3.Legacy Namespaces in TypeScript.md",
+    "10.TypeScript Modules and Namespaces/2.Default and Named Exports in TypeScript.md",
+    "10.TypeScript Modules and Namespaces/1.TypeScript Modules.md",
+    "10.TypeScript Modules and Namespaces",
+    "9.TypeScript Advanced Types/8.Practice Advanced Types Quiz.md",
+    "9.TypeScript Advanced Types/7.TS Utility Types.md",
+    "9.TypeScript Advanced Types/6.TS Recursive Types.md",
+    "9.TypeScript Advanced Types/5.TS Template Literal Types.md",
+    "9.TypeScript Advanced Types/4.S Mapped Types.md",
+    "9.TypeScript Advanced Types/3.TS Conditional Types.md",
+    "9.TypeScript Advanced Types",
+    "8.TypeScript Intermediate Projects",
+    "7.TypeScript Generics",
+    "6.TypeScript Classes and Object-Oriented Programming",
+    "5.TypeScript Object Types and Interfaces"
   ]
 }
