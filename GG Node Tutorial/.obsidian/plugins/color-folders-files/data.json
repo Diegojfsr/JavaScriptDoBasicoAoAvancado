@@ -173,6 +173,162 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#89ff57"
+    },
+    "2.Node.js Complete References/1.Node.js Assert": {
+      "textColor": "#47ff7e",
+      "isBold": true,
+      "isItalic": false,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "1.Basics of Node.js": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#cbff6b"
+    },
+    "2.Node.js Complete References": {
+      "isBold": true,
+      "textColor": "#007533"
+    },
+    "2.Node.js Complete References/2.Node.js Buffer": {
+      "isBold": true,
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "textColor": "#96f8ca"
+    },
+    "2.Node.js Complete References/3.Node.js Console": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#b3d7ff"
+    },
+    "2.Node.js Complete References/4.Node.js Crypto": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#49f866"
+    },
+    "2.Node.js Complete References/5.Node.js DNS": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#adff33"
+    },
+    "2.Node.js Complete References/6.Node.js File System": {
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#d9ff52",
+      "isItalic": false,
+      "applyToFiles": true
+    },
+    "2.Node.js Complete References/7.Node.js Globals": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#e2e60a"
+    },
+    "2.Node.js Complete References/8.Node.js HTTP Module": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffd70f"
+    },
+    "2.Node.js Complete References/9.Node.js HTTP2": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffb638"
+    },
+    "2.Node.js Complete References/10.Node.js OS": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#d8690e"
+    },
+    "2.Node.js Complete References/11.Node.js Path Module": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fb6251"
+    },
+    "2.Node.js Complete References/12.Node.js Process": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ff2e2e"
+    },
+    "2.Node.js Complete References/13.Node.js Query String": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ff1a1a"
+    },
+    "2.Node.js Complete References/14.Node.js Stream": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ac80ff"
+    },
+    "2.Node.js Complete References/15.Node.js String Decoder": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#8d55f7"
+    },
+    "2.Node.js Complete References/16.Node.js Timers": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#4785ff"
+    },
+    "2.Node.js Complete References/17.Node.js TLS-SSL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#90f9ed"
+    },
+    "2.Node.js Complete References/18.Node.js UDP-DataGram": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#61ffb5"
+    },
+    "2.Node.js Complete References/19.Node.js URL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#4dff82"
+    },
+    "2.Node.js Complete References/20.Node.js Utility": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#47ff4a"
+    },
+    "2.Node.js Complete References/21.Node.js V8": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#c4f835"
+    },
+    "2.Node.js Complete References/22.Node.js VM": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fbff1f"
+    },
+    "2.Node.js Complete References/23.Node.js Zlib": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffc038"
+    },
+    "2.Node.js Complete References/24.Node.js Questions": {
+      "applyToSubfolders": true,
+      "isBold": true,
+      "applyToFiles": true,
+      "textColor": "#fd8535"
     }
   },
   "presets": {},
