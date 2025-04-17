@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "898eeb3e8adeeb0d",
+        "id": "ef9389821120f23d",
         "type": "tabs",
         "children": [
           {
-            "id": "4419372f6bdd721b",
+            "id": "f801501a42666737",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.Node.js Complete References/3.Node.js Console/1.Node.js console.assert() Method.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1.Node.js console.assert() Method"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2.Node.js Complete References/3.Node.js Console/1.Node.js console.assert() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 1.Node.js console.assert() Method"
             }
           },
           {
@@ -161,8 +166,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4419372f6bdd721b",
+  "active": "f801501a42666737",
   "lastOpenFiles": [
+    "2.Node.js Complete References/3.Node.js Console/18.Node.js console.warn() Function.md",
+    "2.Node.js Complete References/3.Node.js Console/17.Node.js console.trace() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/16.Node.js console.timeEnd() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/15.Node.js console.timeStamp() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/14.Node.js console.profileEnd() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/13.Node.js console.profile() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/12.Node.js new Console() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/11.Node.js console.table() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/10.Node.js console.time() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/9.Node.js console.timeLog() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/8.Node.js console.info() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/7.Node.js console.error() Function.md",
+    "2.Node.js Complete References/3.Node.js Console/6.Node.js console.dir() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/5.Node.js console.debug() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/4.Node.js console.countReset() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/3.Node.js console.count() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/2.Node js console.clear() Method.md",
+    "2.Node.js Complete References/3.Node.js Console/1.Node.js console.assert() Method.md",
     "2.Node.js Complete References/2.Node.js Buffer/63.Node.js Buffer.buffer Property.md",
     "2.Node.js Complete References/2.Node.js Buffer/62.Node.js Buffer.kMaxLength Property.md",
     "2.Node.js Complete References/2.Node.js Buffer/61.Node.js Buffer.byteOffset Property.md",
@@ -171,24 +194,6 @@
     "2.Node.js Complete References/2.Node.js Buffer/59.Node.js Buffer.toJSON() Method.md",
     "2.Node.js Complete References/2.Node.js Buffer/58.Node.js Buffer.readUIntLE() Method.md",
     "2.Node.js Complete References/2.Node.js Buffer/57.Node.js Buffer.writeInt8() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/56.Node.js Buffer.writeInt32BE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/55.Node.js Buffer.readFloatBE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/54.Node.js Buffer.byteLength() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/53.Node.js Buffer.readDoubleLE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/52.Node.js Buffer.poolSize Property.md",
-    "2.Node.js Complete References/2.Node.js Buffer/51.Node.js Buffer.writeInt16LE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/50.Node.js Buffer.writeDoubleLE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/5.Node.js Buffer.equals() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/49.Node.js Buffer.readDoubleBE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/48.Node.js Buffer.entries() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/47.Node.js Buffer.readInt16BE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/46.Node.js Buffer.writeInt16BE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/45.Node.js Buffer.swap64() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/44.Node.js Buffer.writeIntBE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/43.Node.js Buffer.readUInt32LE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/42.Node.js Buffer.writeInt32LE() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/41.Node.js Buffer.keys() Method.md",
-    "2.Node.js Complete References/2.Node.js Buffer/40.Node.js Buffer.isBuffer() Method.md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
