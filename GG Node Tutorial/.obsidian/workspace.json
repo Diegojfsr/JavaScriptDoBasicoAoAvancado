@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca431bcad9f072d",
+        "id": "3e6032afd3c269a8",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5cd1e61044ac18",
+            "id": "d4c2ec6324ee5eb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Node.js Complete References/9.Node.js HTTP2/1.Class Http2Session - timeout.md",
+                "file": "2.Node.js Complete References/10.Node.js OS/1.Node.js os.EOL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Class Http2Session - timeout"
+              "title": "1.Node.js os.EOL"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Node.js Complete References/9.Node.js HTTP2/1.Class Http2Session - timeout.md",
+                "file": "2.Node.js Complete References/10.Node.js OS/1.Node.js os.EOL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Class Http2Session - timeout"
+              "title": "Sumário de 1.Node.js os.EOL"
             }
           },
           {
@@ -166,34 +166,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cb5cd1e61044ac18",
+  "active": "d4c2ec6324ee5eb2",
   "lastOpenFiles": [
+    "2.Node.js Complete References/10.Node.js OS/19.Node.js os.version() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/18.Node.js os.userInfo() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/17.Node.js os.uptime() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/16.Node.js os.type() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/15.Node.js os.totalmem() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/14.Node.js os.tmpdir() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/13.Node.js os.setPriority() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/12.Node.js os.release() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/11.Node.js os.platform() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/10.Node.js os.networkInterfaces() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/9.Node.js os.loadavg() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/8.Node.js os.hostname() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/7.Node.js os.homedir() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/6.Node.js os.getPriority() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/5.Node.js os.freemem() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/4.Node.js os.endianness() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/3.Node.js os.cpus() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/2.Node.js os.arch() Method.md",
+    "2.Node.js Complete References/10.Node.js OS/1.Node.js os.EOL.md",
+    "2.Node.js Complete References/9.Node.js HTTP2/1.Class Http2Session - timeout.md",
     "2.Node.js Complete References/9.Node.js HTTP2/79.http2 Methods - bufferSize().md",
     "2.Node.js Complete References/9.Node.js HTTP2/78.http2 Methods - aborted().md",
     "2.Node.js Complete References/9.Node.js HTTP2/77.http2 Methods  - prompt.get().md",
     "2.Node.js Complete References/9.Node.js HTTP2/76.http2 Methods - createServer().md",
     "2.Node.js Complete References/9.Node.js HTTP2/75.http2 Methods - getDefaultSettings().md",
     "2.Node.js Complete References/9.Node.js HTTP2/74.http2 Methods - getUnpackedSettings().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/73.http2 Methods - connect().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/72.http2 Methods - getPackedSettings().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/71.http2.constants  Properties - constants.md",
-    "2.Node.js Complete References/9.Node.js HTTP2/70.Class http2.Http2ServerResponse - getHeader().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/69.Class http2.Http2ServerResponse - finished().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/68.Class http2.Http2ServerResponse - end().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/67.Class http2.Http2ServerResponse - getHeaders().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/66.Class http2.Http2ServerResponse - hasHeader().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/65.Class http2.Http2ServerResponse - removeHeader().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/64.Class http2.Http2ServerResponse - getHeaderNames().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/63.Class http2.Http2ServerResponse - statusCode().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/62.Class http2.Http2ServerResponse - socket().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/61.Class http2.Http2ServerResponse - sendDate().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/60.Class http2.Http2ServerResponse - writeHead().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/59.Class http2.Http2ServerResponse - write().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/58.Class http2.Http2ServerResponse - writableEnded().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/57.Class http2.Http2ServerResponse - statusMessage().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/56.Class http2.Http2ServerResponse - stream().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/55.Class http2.Http2ServerResponse - setTimeout().md",
-    "2.Node.js Complete References/9.Node.js HTTP2/54.Class http2.Http2ServerResponse - setHeader().md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
