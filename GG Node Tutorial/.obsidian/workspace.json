@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee201fcc97a75a47",
+        "id": "8bfed846079f17f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e037927fc44a8277",
+            "id": "a703359de91eefd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Node.js Complete References/22.Node.js VM/1.Class vm.Script - new vm.Script().md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.Class vm.Script - new vm.Script()"
+              "title": "Nova aba"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Node.js Complete References/22.Node.js VM/1.Class vm.Script - new vm.Script().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Class vm.Script - new vm.Script()"
+              "title": "Sumário"
             }
           },
           {
@@ -166,34 +161,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e037927fc44a8277",
+  "active": "a703359de91eefd2",
   "lastOpenFiles": [
-    "2.Node.js Complete References/22.Node.js VM/10.vm.runInNewContext().md",
-    "2.Node.js Complete References/22.Node.js VM/9.vm.runInContext().md",
-    "2.Node.js Complete References/22.Node.js VM/8.vm.isContext().md",
-    "2.Node.js Complete References/22.Node.js VM/7.vm.runInThisContext().md",
-    "2.Node.js Complete References/22.Node.js VM/6.vm.createContext().md",
-    "2.Node.js Complete References/22.Node.js VM/5.Class vm.Script - script.runInThisContext().md",
-    "2.Node.js Complete References/22.Node.js VM/4.Class vm.Script - script.runInNewContext().md",
-    "2.Node.js Complete References/22.Node.js VM/3.Class vm.Script - script.runInContext().md",
-    "2.Node.js Complete References/22.Node.js VM/2.Class vm.Script - script.createCachedData().md",
-    "2.Node.js Complete References/22.Node.js VM/1.Class vm.Script - new vm.Script().md",
-    "2.Node.js Complete References/21.Node.js V8/1.V8 Module APIs - cachedDataVersionTag().md",
-    "2.Node.js Complete References/21.Node.js V8/17.Class v8.Deserializer - readRawBytes().md",
-    "2.Node.js Complete References/21.Node.js V8/16.Class v8.Deserializer - readUint64().md",
-    "2.Node.js Complete References/21.Node.js V8/15.Class v8.Deserializer - readUint32().md",
-    "2.Node.js Complete References/21.Node.js V8/14.Class v8.Deserializer - readValue().md",
-    "2.Node.js Complete References/21.Node.js V8/13.Class v8.Deserializer - readHeader().md",
-    "2.Node.js Complete References/21.Node.js V8/12.Class v8.Serializer - writeRawBytes().md",
-    "2.Node.js Complete References/21.Node.js V8/11.Class v8.Serializer - writeDouble().md",
-    "2.Node.js Complete References/21.Node.js V8/10.Class v8.Serializer - writeUint64().md",
-    "2.Node.js Complete References/21.Node.js V8/9.Class v8.Serializer - writeUint32().md",
-    "2.Node.js Complete References/21.Node.js V8/8.Class v8.Serializer - releaseBuffer().md",
-    "2.Node.js Complete References/21.Node.js V8/7.Class v8.Serializer - writeValue().md",
-    "2.Node.js Complete References/21.Node.js V8/6.Class v8.Serializer - writeHeader().md",
-    "2.Node.js Complete References/21.Node.js V8/5.Serialization API - v8.deserialize().md",
-    "2.Node.js Complete References/21.Node.js V8/4.Serialization API - v8.serialize().md",
-    "2.Node.js Complete References/21.Node.js V8/3.V8 Module APIs - getHeapStatistics().md",
+    "2.Node.js Complete References/23.Node.js Zlib/31.Convenience Methods - zlib.unzipSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/30.Convenience Methods - Convenience Methods.md",
+    "2.Node.js Complete References/23.Node.js Zlib/29.Convenience Methods - zlib.inflateRawSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/28.Convenience Methods - zlib.inflateRaw().md",
+    "2.Node.js Complete References/23.Node.js Zlib/27.Convenience Methods - zlib.inflateSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/26.Convenience Methods - zlib.inflate().md",
+    "2.Node.js Complete References/23.Node.js Zlib/25.Convenience Methods - zlib.gzipSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/24.Convenience Methods - zlib.createGzip().md",
+    "2.Node.js Complete References/23.Node.js Zlib/23.Convenience Methods - zlib.gunzipSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/22.Convenience Methods - zlib.gunzip().md",
+    "2.Node.js Complete References/23.Node.js Zlib/21.Convenience Methods - zlib.deflateRawSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/20.Convenience Methods - zlib.deflateRaw().md",
+    "2.Node.js Complete References/23.Node.js Zlib/19.Convenience Methods - zlib.deflateSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/18.Convenience Methods - zlib.deflate().md",
+    "2.Node.js Complete References/23.Node.js Zlib/17.Convenience Methods - zlib.brotliDecompressSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/16.Convenience Methods - zlib.brotliDecompress().md",
+    "2.Node.js Complete References/23.Node.js Zlib/15.Convenience Methods - zlib.brotliCompressSync().md",
+    "2.Node.js Complete References/23.Node.js Zlib/14.Convenience Methods - zlib.brotliCompress().md",
+    "2.Node.js Complete References/23.Node.js Zlib/13.Class zlib.ZlibBase - zlib.flush().md",
+    "2.Node.js Complete References/23.Node.js Zlib/12.Class zlib.ZlibBase - zlib.close().md",
+    "2.Node.js Complete References/23.Node.js Zlib/11.Class zlib.ZlibBase - zlib.bytesWritten.md",
+    "2.Node.js Complete References/23.Node.js Zlib/10.zlib.gzip().md",
+    "2.Node.js Complete References/23.Node.js Zlib/9.zlib.createInflate().md",
+    "2.Node.js Complete References/23.Node.js Zlib/8.zlib.createDeflate().md",
+    "2.Node.js Complete References/23.Node.js Zlib/7.zlib.createInflateRaw().md",
+    "2.Node.js Complete References/23.Node.js Zlib/6.zlib.createGunzip().md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
