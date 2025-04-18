@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d4a7fecb62f8f6",
+        "id": "ee201fcc97a75a47",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7341ab6043ceb4",
+            "id": "e037927fc44a8277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Node.js Complete References/21.Node.js V8/1.V8 Module APIs - cachedDataVersionTag().md",
+                "file": "2.Node.js Complete References/22.Node.js VM/1.Class vm.Script - new vm.Script().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.V8 Module APIs - cachedDataVersionTag()"
+              "title": "1.Class vm.Script - new vm.Script()"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Node.js Complete References/21.Node.js V8/1.V8 Module APIs - cachedDataVersionTag().md",
+                "file": "2.Node.js Complete References/22.Node.js VM/1.Class vm.Script - new vm.Script().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.V8 Module APIs - cachedDataVersionTag()"
+              "title": "Sumário de 1.Class vm.Script - new vm.Script()"
             }
           },
           {
@@ -166,8 +166,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ea7341ab6043ceb4",
+  "active": "e037927fc44a8277",
   "lastOpenFiles": [
+    "2.Node.js Complete References/22.Node.js VM/10.vm.runInNewContext().md",
+    "2.Node.js Complete References/22.Node.js VM/9.vm.runInContext().md",
+    "2.Node.js Complete References/22.Node.js VM/8.vm.isContext().md",
+    "2.Node.js Complete References/22.Node.js VM/7.vm.runInThisContext().md",
+    "2.Node.js Complete References/22.Node.js VM/6.vm.createContext().md",
+    "2.Node.js Complete References/22.Node.js VM/5.Class vm.Script - script.runInThisContext().md",
+    "2.Node.js Complete References/22.Node.js VM/4.Class vm.Script - script.runInNewContext().md",
+    "2.Node.js Complete References/22.Node.js VM/3.Class vm.Script - script.runInContext().md",
+    "2.Node.js Complete References/22.Node.js VM/2.Class vm.Script - script.createCachedData().md",
+    "2.Node.js Complete References/22.Node.js VM/1.Class vm.Script - new vm.Script().md",
+    "2.Node.js Complete References/21.Node.js V8/1.V8 Module APIs - cachedDataVersionTag().md",
     "2.Node.js Complete References/21.Node.js V8/17.Class v8.Deserializer - readRawBytes().md",
     "2.Node.js Complete References/21.Node.js V8/16.Class v8.Deserializer - readUint64().md",
     "2.Node.js Complete References/21.Node.js V8/15.Class v8.Deserializer - readUint32().md",
@@ -183,17 +194,6 @@
     "2.Node.js Complete References/21.Node.js V8/5.Serialization API - v8.deserialize().md",
     "2.Node.js Complete References/21.Node.js V8/4.Serialization API - v8.serialize().md",
     "2.Node.js Complete References/21.Node.js V8/3.V8 Module APIs - getHeapStatistics().md",
-    "2.Node.js Complete References/21.Node.js V8/2.V8 Module APIs - getHeapSpaceStatistics().md",
-    "2.Node.js Complete References/21.Node.js V8/1.V8 Module APIs - cachedDataVersionTag().md",
-    "2.Node.js Complete References/20.Node.js Utility/1.Utility Module.md",
-    "2.Node.js Complete References/20.Node.js Utility/49.util.types.isSetIterator().md",
-    "2.Node.js Complete References/20.Node.js Utility/48.util.types.isBooleanObject().md",
-    "2.Node.js Complete References/20.Node.js Utility/47.util.types.isMapIterator().md",
-    "2.Node.js Complete References/20.Node.js Utility/46.util.types.isWeakMap().md",
-    "2.Node.js Complete References/20.Node.js Utility/45.util.types.isMap().md",
-    "2.Node.js Complete References/20.Node.js Utility/44.util.types.isWeakSet().md",
-    "2.Node.js Complete References/20.Node.js Utility/43.util.types.isInt32Array().md",
-    "2.Node.js Complete References/20.Node.js Utility/42.util.types.isRegExp().md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
