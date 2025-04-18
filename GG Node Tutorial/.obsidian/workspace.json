@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7831a0b71b1e8ff6",
+        "id": "a6184ebe690a821e",
         "type": "tabs",
         "children": [
           {
-            "id": "174c84078fa928aa",
+            "id": "6dbc1b0bc81a090e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Node.js Complete References/19.Node.js URL/1.Methods - URL().md",
+                "file": "2.Node.js Complete References/20.Node.js Utility/1.Utility Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Methods - URL()"
+              "title": "1.Utility Module"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Node.js Complete References/19.Node.js URL/1.Methods - URL().md",
+                "file": "2.Node.js Complete References/20.Node.js Utility/1.Utility Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Methods - URL()"
+              "title": "Sumário de 1.Utility Module"
             }
           },
           {
@@ -166,34 +166,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "174c84078fa928aa",
+  "active": "6dbc1b0bc81a090e",
   "lastOpenFiles": [
-    "2.Node.js Complete References/19.Node.js URL/1.Methods - URL().md",
-    "2.Node.js Complete References/19.Node.js URL/49.Legacy urlObject - pathname.md",
-    "2.Node.js Complete References/19.Node.js URL/48.Legacy urlObject - port.md",
-    "2.Node.js Complete References/19.Node.js URL/47.Legacy urlObject - slashes.md",
-    "2.Node.js Complete References/19.Node.js URL/46.Legacy urlObject - query.md",
-    "2.Node.js Complete References/19.Node.js URL/45.Legacy urlObject - href.md",
-    "2.Node.js Complete References/19.Node.js URL/44.Legacy urlObject - protocol.md",
-    "2.Node.js Complete References/19.Node.js URL/43.Legacy urlObject  - search.md",
-    "2.Node.js Complete References/19.Node.js URL/42.Legacy urlObject - host.md",
-    "2.Node.js Complete References/19.Node.js URL/41.Legacy urlObject - hash.md",
-    "2.Node.js Complete References/19.Node.js URL/40.Legacy urlObject - auth.md",
-    "2.Node.js Complete References/19.Node.js URL/39.Class URLSearchParams - has().md",
-    "2.Node.js Complete References/19.Node.js URL/38.Class URLSearchParams - keys().md",
-    "2.Node.js Complete References/19.Node.js URL/37.Class URLSearchParams - toString().md",
-    "2.Node.js Complete References/19.Node.js URL/36.Class URLSearchParams - set().md",
-    "2.Node.js Complete References/19.Node.js URL/35.Class URLSearchParams - values().md",
-    "2.Node.js Complete References/19.Node.js URL/34.Class URLSearchParams - keys().md",
-    "2.Node.js Complete References/19.Node.js URL/33.Class URLSearchParams - toString().md",
-    "2.Node.js Complete References/19.Node.js URL/32.Class URLSearchParams - sort().md",
-    "2.Node.js Complete References/19.Node.js URL/31.Class URLSearchParams - getAll().md",
-    "2.Node.js Complete References/19.Node.js URL/30.Class URLSearchParams - get().md",
-    "2.Node.js Complete References/19.Node.js URL/29.Class URLSearchParams - get().md",
-    "2.Node.js Complete References/19.Node.js URL/28.Class URLSearchParams - forEach().md",
-    "2.Node.js Complete References/19.Node.js URL/27.Class URLSearchParams  - entries().md",
-    "2.Node.js Complete References/19.Node.js URL/26.Class URLSearchParams - delete().md",
-    "2.Node.js Complete References/19.Node.js URL/25.Class URLSearchParams - append().md",
+    "2.Node.js Complete References/20.Node.js Utility/49.util.types.isSetIterator().md",
+    "2.Node.js Complete References/20.Node.js Utility/48.util.types.isBooleanObject().md",
+    "2.Node.js Complete References/20.Node.js Utility/47.util.types.isMapIterator().md",
+    "2.Node.js Complete References/20.Node.js Utility/46.util.types.isWeakMap().md",
+    "2.Node.js Complete References/20.Node.js Utility/45.util.types.isMap().md",
+    "2.Node.js Complete References/20.Node.js Utility/44.util.types.isWeakSet().md",
+    "2.Node.js Complete References/20.Node.js Utility/43.util.types.isInt32Array().md",
+    "2.Node.js Complete References/20.Node.js Utility/42.util.types.isRegExp().md",
+    "2.Node.js Complete References/20.Node.js Utility/41.util.types.isNumberObject().md",
+    "2.Node.js Complete References/20.Node.js Utility/40.util.types.isTypedArray().md",
+    "2.Node.js Complete References/20.Node.js Utility/39.util.types.isPromise().md",
+    "2.Node.js Complete References/20.Node.js Utility/38.util.types.isSymbolObject().md",
+    "2.Node.js Complete References/20.Node.js Utility/37.util.types.isStringObject().md",
+    "2.Node.js Complete References/20.Node.js Utility/36.util.types.isSet().md",
+    "2.Node.js Complete References/20.Node.js Utility/35.util.types.isUint8Array().md",
+    "2.Node.js Complete References/20.Node.js Utility/34.util.types.isSharedArrayBuffer().md",
+    "2.Node.js Complete References/20.Node.js Utility/33.util.types.isDataView().md",
+    "2.Node.js Complete References/20.Node.js Utility/32.util.types.isGeneratorFunction().md",
+    "2.Node.js Complete References/20.Node.js Utility/31.util.types.isBoxedPrimitive().md",
+    "2.Node.js Complete References/20.Node.js Utility/30.util.types.isUint8ClampedArray().md",
+    "2.Node.js Complete References/20.Node.js Utility/29.util.types.isBigUint64Array().md",
+    "2.Node.js Complete References/20.Node.js Utility/28.util.types.isGeneratorObject().md",
+    "2.Node.js Complete References/20.Node.js Utility/27.util.types.isProxy().md",
+    "2.Node.js Complete References/20.Node.js Utility/26.util.types.isFloat32Array().md",
+    "2.Node.js Complete References/20.Node.js Utility/25.util.types.isDate().md",
+    "2.Node.js Complete References/20.Node.js Utility/24.util.types.isInt8Array().md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
