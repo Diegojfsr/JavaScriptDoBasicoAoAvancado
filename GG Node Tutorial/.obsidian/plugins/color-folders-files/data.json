@@ -329,6 +329,12 @@
       "isBold": true,
       "applyToFiles": true,
       "textColor": "#fd8535"
+    },
+    "3.Node.js Interview Questions": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f9b567"
     }
   },
   "presets": {},
