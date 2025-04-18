@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "500ee54fd3904a9b",
+        "id": "265a005d4eaaaa5d",
         "type": "tabs",
         "children": [
           {
-            "id": "d7a11a3d6f8f146a",
+            "id": "07943193de4bbadb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Node.js Complete References/15.Node.js String Decoder/1.stringDecoder.end().md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.stringDecoder.end()"
-            }
-          },
-          {
-            "id": "00c75726219a8964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Node.js Complete References/15.Node.js String Decoder/2.stringDecoder.write().md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.stringDecoder.write()"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Node.js Complete References/15.Node.js String Decoder/2.stringDecoder.write().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2.stringDecoder.write()"
+              "title": "Sumário"
             }
           },
           {
@@ -181,34 +161,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "00c75726219a8964",
+  "active": "07943193de4bbadb",
   "lastOpenFiles": [
-    "2.Node.js Complete References/15.Node.js String Decoder/1.stringDecoder.end().md",
-    "2.Node.js Complete References/15.Node.js String Decoder/2.stringDecoder.write().md",
-    "2.Node.js Complete References/14.Node.js Stream/1.Writable Streams Methods - cork().md",
-    "2.Node.js Complete References/14.Node.js Stream/46.Transform Streams Methods - finished().md",
-    "2.Node.js Complete References/14.Node.js Stream/45.Transform Streams Methods - pipeline().md",
-    "2.Node.js Complete References/14.Node.js Stream/44.Transform Streams Methods - destroy().md",
-    "2.Node.js Complete References/14.Node.js Stream/43.Readable Streams Events - end.md",
-    "2.Node.js Complete References/14.Node.js Stream/42.Readable Streams Events - close.md",
-    "2.Node.js Complete References/14.Node.js Stream/41.Readable Streams Events - data.md",
-    "2.Node.js Complete References/14.Node.js Stream/40.Readable Streams Events - readable.md",
-    "2.Node.js Complete References/14.Node.js Stream/39.Readable Streams Events - error.md",
-    "2.Node.js Complete References/14.Node.js Stream/38.Readable Streams Events - resume.md",
-    "2.Node.js Complete References/14.Node.js Stream/37.Readable Streams Events - pause.md",
-    "2.Node.js Complete References/14.Node.js Stream/36.Readable Streams Property - readable.md",
-    "2.Node.js Complete References/14.Node.js Stream/35.Readable Streams Property - readableObjectMode.md",
-    "2.Node.js Complete References/14.Node.js Stream/34.Readable Streams Property - readableEnded.md",
-    "2.Node.js Complete References/14.Node.js Stream/33.Readable Streams Property - readableFlowing.md",
-    "2.Node.js Complete References/14.Node.js Stream/32.Readable Streams Property - readableHighWaterMark.md",
-    "2.Node.js Complete References/14.Node.js Stream/31.Readable Streams Property - readableLength.md",
-    "2.Node.js Complete References/14.Node.js Stream/30.Readable Streams Methods - setEncoding().md",
-    "2.Node.js Complete References/14.Node.js Stream/29.Readable Streams Methods - Readable.from().md",
-    "2.Node.js Complete References/14.Node.js Stream/28.Readable Streams Methods - unshift().md",
-    "2.Node.js Complete References/14.Node.js Stream/27.Readable Streams Methods - unpipe().md",
-    "2.Node.js Complete References/14.Node.js Stream/26.Readable Streams Methods - pipe().md",
-    "2.Node.js Complete References/14.Node.js Stream/25.Writable Streams Event - unpipe.md",
-    "2.Node.js Complete References/14.Node.js Stream/24.Writable Streams Event - Stream pipe.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/22.Class tls.TLSSocket Method - remotePort.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/23.Class tls.TLSSocket  Property - authorized.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/24.Class tls.TLSSocket  Property - authorizationError.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/25.Class tls.TLSSocket  Property - remoteFamily.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/21.Class tls.TLSSocket Method - exportKeyingMaterial().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/20.Class tls.TLSSocket Method - setMaxSendFragment().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/19.Class tls.TLSSocket Method - remoteAddress.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/18.Class tls.TLSSocket Method - localAddress.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/17.Class tls.TLSSocket Method - isSessionReused().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/16.Class tls.TLSSocket Method - getEphemeralKeyInfo().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/15.Class tls.TLSSocket Method - getPeerCertificate().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/14.Class tls.TLSSocket Method - getPeerFinished().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/13.Class tls.TLSSocket Method - getSharedSigalgs().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/12.Class tls.TLSSocket Method - getSession().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/11.Class tls.TLSSocket Method - getFinished().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/10.Class tls.TLSSocket Method  - getProtocol().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/9.Class tls.TLSSocket Method - getCertificate().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/8.Class tls.TLSSocket Method - getCipher().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/7.Class tls.TLSSocket Method - enableTrace().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/6.Class tls.TLSSocket Method - address().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/5.writableEnded.md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/4.getCiphers().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/3.rootCertificates().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/2.tls.createServer().md",
+    "2.Node.js Complete References/17.Node.js TLS-SSL/1.maxFreeSockets.md",
+    "2.Node.js Complete References/16.Node.js Timers/1.Immediate Timer Class.md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
