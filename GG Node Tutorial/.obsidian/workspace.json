@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06bc66c0984dc891",
+        "id": "542a7d44834d558a",
         "type": "tabs",
         "children": [
           {
-            "id": "4206b9b3daf2d30c",
+            "id": "291c91c36fa16694",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Node.js Complete References/5.Node.js DNS/1.Node.js dns.getServers() Method.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.Node.js dns.getServers() Method"
+              "title": "Nova aba"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Node.js Complete References/5.Node.js DNS/1.Node.js dns.getServers() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Node.js dns.getServers() Method"
+              "title": "Sumário"
             }
           },
           {
@@ -166,34 +161,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4206b9b3daf2d30c",
+  "active": "291c91c36fa16694",
   "lastOpenFiles": [
-    "2.Node.js Complete References/5.Node.js DNS/27.Node.js dnsPromises.getServers() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/26.Node.js dnsPromises.resolveMx() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/25.Node.js dnsPromises.resolve6() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/24.Node.js dnsPromises.resolve4() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/23.Node.js dnsPromises.resolveMx() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/22.Node.js dnsPromises.resolveAny() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/21.Node.js dnsPromises.resolveSoa() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/20.Node.js dnsPromises.resolveTxt() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/19.Node.js dnsPromises.reverse() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/18.Node.js dnsPromises.resolveNs() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/17.Node.js dnsPromises.lookupService() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/16.Node.js dnsPromises.lookup() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/15.Node.js dnsPromises.resolve() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/14.Node.js dns.resolveSoa() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/13.Node.js dns.resolvePtr() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/12.Node.js dns.resolveNs() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/11.Node.js dns.resolveTxt() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/10.Node.js dns.resolveNaptr() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/9.Node.js dns.resolveMx() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/8.Node.js dns.resolveCname() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/7.Node.js dns.resolveAny() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/6.Node.js dns.resolve6() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/5.Node.js dns.resolve4() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/4.Node.js dns.resolve() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/3.Node.js dns.lookupService() Method.md",
-    "2.Node.js Complete References/5.Node.js DNS/2.Node.js dns.lookup() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/152.Node.js fs.writeSync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/151.Node.js fs.rm() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/150.Node.js fs.rmSync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/149.Node.js fs.fsync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/148.Node.js fs.fdatasync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/147.Node.js fs.readlink() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/146.Node.js fs.watch() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/145.Node.js fs.promises.link() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/144.Node.js fs.Dir.closeSync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/143.Node.js fs.Dir.readSync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/142.Node.js fs.Dirent.isSymbolicLink() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/141.Node.js filehandle.appendFile() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/140.Node.js filehandle.appendFile() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/139.Node.js fs.dirent.name Property.md",
+    "2.Node.js Complete References/6.Node.js File System/138.Node.js filehandle.truncate() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/137.Node.js fs.filehandle.sync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/136.Node.js fs.filehandle.chown() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/135.Node.js stats.isBlockDevice() Method from fs.Stats Class.md",
+    "2.Node.js Complete References/6.Node.js File System/134.Node.js fs.filehandle.chmod() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/133.Node.js fs.filehandle.datasync() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/132.Node.js fs.Dir.path() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/131.Node.js filehandle.writeFile() Method from class FileHandle.md",
+    "2.Node.js Complete References/6.Node.js File System/130.Node.js stats.isDirectory() Method from fs.Stats Class.md",
+    "2.Node.js Complete References/6.Node.js File System/129.Node.js filehandle.read() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/128.Node.js filehandle.close() Method.md",
+    "2.Node.js Complete References/6.Node.js File System/127.Node.js fs.Dirent.isBlockDevice() Method.md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
