@@ -262,7 +262,7 @@
       "applyToFiles": true,
       "applyToSubfolders": true,
       "isBold": true,
-      "textColor": "#ff1a1a"
+      "textColor": "#fdaaaa"
     },
     "2.Node.js Complete References/14.Node.js Stream": {
       "applyToFiles": true,
