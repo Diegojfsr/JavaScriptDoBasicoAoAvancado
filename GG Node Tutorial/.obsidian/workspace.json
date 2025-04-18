@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1832e6e6abf2c887",
+        "id": "7831a0b71b1e8ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "b829e586f1985ed1",
+            "id": "174c84078fa928aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.Node.js Complete References/19.Node.js URL/1.Methods - URL().md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1.Methods - URL()"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2.Node.js Complete References/19.Node.js URL/1.Methods - URL().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 1.Methods - URL()"
             }
           },
           {
@@ -161,34 +166,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b829e586f1985ed1",
+  "active": "174c84078fa928aa",
   "lastOpenFiles": [
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/19.createSocket().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/18.setRecvBufferSize().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/17.ref().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/16.remoteAddress().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/15.send().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/14.setSendBufferSize().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/13.setBroadcast().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/12.setMulticastLoopback().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/11.setMulticastInterface().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/10.unref().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/9.setMulticastTTL().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/8.setTTL().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/7.getRecvBufferSize().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/6.getSendBufferSize().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/5.dropMembership().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/4.connect().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/3.bind().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/2.addMembership().md",
-    "2.Node.js Complete References/18.Node.js UDP-DataGram/1.address().md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/22.Class tls.TLSSocket Method - remotePort.md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/23.Class tls.TLSSocket  Property - authorized.md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/24.Class tls.TLSSocket  Property - authorizationError.md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/25.Class tls.TLSSocket  Property - remoteFamily.md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/21.Class tls.TLSSocket Method - exportKeyingMaterial().md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/20.Class tls.TLSSocket Method - setMaxSendFragment().md",
-    "2.Node.js Complete References/17.Node.js TLS-SSL/19.Class tls.TLSSocket Method - remoteAddress.md",
+    "2.Node.js Complete References/19.Node.js URL/1.Methods - URL().md",
+    "2.Node.js Complete References/19.Node.js URL/49.Legacy urlObject - pathname.md",
+    "2.Node.js Complete References/19.Node.js URL/48.Legacy urlObject - port.md",
+    "2.Node.js Complete References/19.Node.js URL/47.Legacy urlObject - slashes.md",
+    "2.Node.js Complete References/19.Node.js URL/46.Legacy urlObject - query.md",
+    "2.Node.js Complete References/19.Node.js URL/45.Legacy urlObject - href.md",
+    "2.Node.js Complete References/19.Node.js URL/44.Legacy urlObject - protocol.md",
+    "2.Node.js Complete References/19.Node.js URL/43.Legacy urlObject  - search.md",
+    "2.Node.js Complete References/19.Node.js URL/42.Legacy urlObject - host.md",
+    "2.Node.js Complete References/19.Node.js URL/41.Legacy urlObject - hash.md",
+    "2.Node.js Complete References/19.Node.js URL/40.Legacy urlObject - auth.md",
+    "2.Node.js Complete References/19.Node.js URL/39.Class URLSearchParams - has().md",
+    "2.Node.js Complete References/19.Node.js URL/38.Class URLSearchParams - keys().md",
+    "2.Node.js Complete References/19.Node.js URL/37.Class URLSearchParams - toString().md",
+    "2.Node.js Complete References/19.Node.js URL/36.Class URLSearchParams - set().md",
+    "2.Node.js Complete References/19.Node.js URL/35.Class URLSearchParams - values().md",
+    "2.Node.js Complete References/19.Node.js URL/34.Class URLSearchParams - keys().md",
+    "2.Node.js Complete References/19.Node.js URL/33.Class URLSearchParams - toString().md",
+    "2.Node.js Complete References/19.Node.js URL/32.Class URLSearchParams - sort().md",
+    "2.Node.js Complete References/19.Node.js URL/31.Class URLSearchParams - getAll().md",
+    "2.Node.js Complete References/19.Node.js URL/30.Class URLSearchParams - get().md",
+    "2.Node.js Complete References/19.Node.js URL/29.Class URLSearchParams - get().md",
+    "2.Node.js Complete References/19.Node.js URL/28.Class URLSearchParams - forEach().md",
+    "2.Node.js Complete References/19.Node.js URL/27.Class URLSearchParams  - entries().md",
+    "2.Node.js Complete References/19.Node.js URL/26.Class URLSearchParams - delete().md",
+    "2.Node.js Complete References/19.Node.js URL/25.Class URLSearchParams - append().md",
     "2.Node.js Complete References/2.Node.js Buffer",
     "2.Node.js Complete References/24.Node.js Questions",
     "2.Node.js Complete References/23.Node.js Zlib",
