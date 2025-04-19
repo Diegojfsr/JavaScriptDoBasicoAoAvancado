@@ -173,6 +173,66 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#89ff57"
+    },
+    "1.TypeScript Hello World Program": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ff5252"
+    },
+    "2.TypeScript Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ff9494"
+    },
+    "3.TypeScript Functions": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f95ddc"
+    },
+    "4.TypeScipt Beginner Projects": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#eea5fd"
+    },
+    "5.TypeScript Object Types and Interfaces": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#8554f8"
+    },
+    "6.TypeScript Classes and Object-Oriented Programming": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#80dfff"
+    },
+    "7.TypeScript Generics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#56f571"
+    },
+    "8.TypeScript Intermediate Projects": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#8affad"
+    },
+    "9.TypeScript Advanced Types": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#eece2f"
+    },
+    "10.TypeScript Modules and Namespaces": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdff8f"
     }
   },
   "presets": {},

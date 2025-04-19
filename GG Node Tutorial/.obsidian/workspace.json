@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Node.js Interview Questions/1.Node.js Interview Questions and Answers (2024) – Beginner Level.md",
+                "file": "1.Basics of Node.js/1.Node.js Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Node.js Interview Questions and Answers (2024) – Beginner Level"
+              "title": "1.Node.js Introduction"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Node.js Interview Questions/1.Node.js Interview Questions and Answers (2024) – Beginner Level.md",
+                "file": "1.Basics of Node.js/1.Node.js Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Node.js Interview Questions and Answers (2024) – Beginner Level"
+              "title": "Sumário de 1.Node.js Introduction"
             }
           },
           {
@@ -168,8 +168,8 @@
   },
   "active": "a703359de91eefd2",
   "lastOpenFiles": [
-    "3.Node.js Interview Questions/3.Node.js Interview Questions and Answers (2024) – Advanced Level.md",
     "3.Node.js Interview Questions/1.Node.js Interview Questions and Answers (2024) – Beginner Level.md",
+    "3.Node.js Interview Questions/3.Node.js Interview Questions and Answers (2024) – Advanced Level.md",
     "3.Node.js Interview Questions/2.Node.js Interview Questions and Answers (2024) – Intermediate Level.md",
     "2.Node.js Complete References/24.Node.js Questions/24.Node.js Questions.md",
     "2.Node.js Complete References/23.Node.js Zlib/31.Convenience Methods - zlib.unzipSync().md",
