@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.TypeScript Modules and Namespaces/1.TypeScript Modules.md",
+                "file": "1.TypeScript Hello World Program/1.Install TypeScript in your System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.TypeScript Modules"
+              "title": "1.Install TypeScript in your System"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 470.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.TypeScript Modules and Namespaces/1.TypeScript Modules.md",
+                "file": "1.TypeScript Hello World Program/1.Install TypeScript in your System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.TypeScript Modules"
+              "title": "Sumário de 1.Install TypeScript in your System"
             }
           },
           {
@@ -168,32 +168,32 @@
   },
   "active": "fb2091b90f4a0c8e",
   "lastOpenFiles": [
-    "10.TypeScript Modules and Namespaces/4.Practice Testing in TypeScript Quiz.md",
+    "14.TypeScript Advanced Projects/3.Contact Management System In Typescript.md",
+    "14.TypeScript Advanced Projects/2.Task Management In Typescript.md",
+    "14.TypeScript Advanced Projects/1.Quiz App In Typescript.md",
+    "13.Interesting Facts About TypeScript/6.Interesting Facts About Modules and Namespaces in TypeScript.md",
+    "13.Interesting Facts About TypeScript/5.Interesting Facts About Generics in TypeScript.md",
+    "13.Interesting Facts About TypeScript/4.Interesting Facts About Classes and Object-Oriented Programming in TypeScript.md",
+    "13.Interesting Facts About TypeScript/3.Interesting Facts About Object Types and Interfaces in TypeScript.md",
+    "13.Interesting Facts About TypeScript/2.Interesting Facts About Functions in TypeScript.md",
+    "13.Interesting Facts About TypeScript/1.Interesting Facts About TypeScript Basics.md",
+    "12.TypeScript Configuration and Performance/3.Practice TypeScript Configuration & Performance Quiz.md",
+    "12.TypeScript Configuration and Performance/2.Performance tuning for TypeScript compilation.md",
+    "12.TypeScript Configuration and Performance/1.Optimizing tsconfig.json for large projects.md",
+    "11.TypeScript Testing/4.Practice Testing in TypeScript Quiz.md",
+    "11.TypeScript Testing/3.Type-safe Mocking in TypeScript.md",
+    "11.TypeScript Testing/2.Testing Frameworks in TypeScript.md",
+    "11.TypeScript Testing/1.Writing Unit Tests with TypeScript.md",
     "10.TypeScript Modules and Namespaces/3.Legacy Namespaces in TypeScript.md",
-    "10.TypeScript Modules and Namespaces/2.Default and Named Exports in TypeScript.md",
     "10.TypeScript Modules and Namespaces/1.TypeScript Modules.md",
+    "10.TypeScript Modules and Namespaces/2.Default and Named Exports in TypeScript.md",
+    "10.TypeScript Modules and Namespaces/4.Practice Testing in TypeScript Quiz.md",
     "9.TypeScript Advanced Types/7.TS Utility Types.md",
     "9.TypeScript Advanced Types/8.Practice Advanced Types Quiz.md",
     "9.TypeScript Advanced Types/6.TS Recursive Types.md",
     "9.TypeScript Advanced Types/5.TS Template Literal Types.md",
     "9.TypeScript Advanced Types/4.S Mapped Types.md",
     "9.TypeScript Advanced Types/3.TS Conditional Types.md",
-    "9.TypeScript Advanced Types/2.TS Type Guards.md",
-    "9.TypeScript Advanced Types/1.TS Type Assertions.md",
-    "8.TypeScript Intermediate Projects/4.Pixel Art Maker Using Typescript.md",
-    "8.TypeScript Intermediate Projects/3.Typing Speed Detector App Using Typescript.md",
-    "8.TypeScript Intermediate Projects/2.Unicode Character Value Finder App Using Typescript.md",
-    "8.TypeScript Intermediate Projects/1.Random Password Generator Using Typescript.md",
-    "7.TypeScript Generics/6.Practice TypeScript Generics Quiz.md",
-    "7.TypeScript Generics/5.TS Built-in Generic Types.md",
-    "7.TypeScript Generics/4.TS Generic Constraints.md",
-    "7.TypeScript Generics/3.TS Generic Classes.md",
-    "7.TypeScript Generics/2.TS Generic Functions.md",
-    "7.TypeScript Generics/1.Introduction to Generics in TypeScript.md",
-    "6.TypeScript Classes and Object-Oriented Programming/7.Practice TypeScript OOP Quiz.md",
-    "6.TypeScript Classes and Object-Oriented Programming/6.TS Implementing Interfaces in Classes.md",
-    "6.TypeScript Classes and Object-Oriented Programming/5.TS Abstract Classes and Methods.md",
-    "6.TypeScript Classes and Object-Oriented Programming/4.TS Getters and Setters.md",
     "14.TypeScript Advanced Projects",
     "13.Interesting Facts About TypeScript",
     "12.TypeScript Configuration and Performance",

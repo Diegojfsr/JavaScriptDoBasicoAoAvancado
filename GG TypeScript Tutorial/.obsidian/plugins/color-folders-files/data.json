@@ -233,6 +233,30 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#fdff8f"
+    },
+    "11.TypeScript Testing": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f56642"
+    },
+    "12.TypeScript Configuration and Performance": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fda29b"
+    },
+    "13.Interesting Facts About TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fd448e"
+    },
+    "14.TypeScript Advanced Projects": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fbdae7"
     }
   },
   "presets": {},
